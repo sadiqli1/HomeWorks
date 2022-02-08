@@ -14,7 +14,6 @@ namespace HomeWork
                 if (txt[i] == 'a')
                 {
                     Console.WriteLine("a var");
-                    break;
                 }
                 else
                 {
